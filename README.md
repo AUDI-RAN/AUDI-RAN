@@ -33,7 +33,7 @@
 `※ FOR REFERENCE ONLY`
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=windycn&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qsbit&show_icons=true" />
 </a><a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windycn&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qsbit&layout=compact" />
 </a>
