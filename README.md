@@ -34,6 +34,10 @@
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=qsbit&show_icons=true" />
-</a><a>
+</a>
+
+<!--
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qsbit&layout=compact" />
 </a>
+-->
