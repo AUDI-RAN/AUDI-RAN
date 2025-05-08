@@ -1,6 +1,6 @@
 ### Hello Everyone ，你好呀 ! 👋
 
->  I'm [冉子傲 RZA], an undergraduate major in DUFE(https://www.dufe.edu.cn/) from China.
+>  I'm [冉子傲 RZA], an undergraduate major in [DUFE](https://www.dufe.edu.cn/) from China.
 >
 > :email: 1303388394@qq.com
 
