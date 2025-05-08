@@ -10,7 +10,7 @@
 *  :triangular_flag_on_post:To be a better self:facepunch:~
 *  If it weren't for bold adventure， life is nothing.
 
-**My Blog currently updating:** [Persional Blog](https://github.com/AUDI-RAN)
+**My Blog currently updating:** [MY GITHUB](https://github.com/AUDI-RAN)
 
 * :speech_balloon: Questions are welcomed by commenting under articles.
 
@@ -25,7 +25,7 @@
 <code><img height="24" src="https://img2.baidu.com/it/u=3574863973,3090991588&fm=253&fmt=auto&app=120&f=JPEG?w=805&h=800"></code>
 <code><img height="24" src="https://img2.baidu.com/it/u=3309929395,1825564067&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"></code>
 <code><img height="24" src="https://t15.baidu.com/it/u=657631420,1168967143&fm=224&app=112&f=PNG?w=500&h=500"></code>
-<code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFw90.png"></code>
+<code><img height="24" src="https://img1.baidu.com/it/u=826357191,3098878560&fm=253&fmt=auto&app=138&f=JPEG?w=661&h=500"></code>
 <code><img height="20" src="https://z3.ax1x.com/2021/04/19/cTkqd1.png"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/08/12/avS93j.png"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/08/23/d0HKfS.png"></code>
