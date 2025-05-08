@@ -23,7 +23,7 @@
 **My Technology Stack**
 
 <code><img height="24" src="https://img2.baidu.com/it/u=3574863973,3090991588&fm=253&fmt=auto&app=120&f=JPEG?w=805&h=800"></code>
-<code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwF3jS.png"></code>
+<code><img height="20" src="https://img2.baidu.com/it/u=3309929395,1825564067&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"></code>
 <code><img height="20" src="https://z3.ax1x.com/2021/04/19/cTk5zF.png"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFw90.png"></code>
 <code><img height="20" src="https://z3.ax1x.com/2021/04/19/cTkqd1.png"></code>
