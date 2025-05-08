@@ -4,7 +4,7 @@
 >
 > :email: 1303388394@qq.com
 
-*  :computer: Enjoy learning and Coding!!
+*  :badminton: Enjoy playing badminton and playing the piano !!
 *  :two_hearts: Love photography:camera: and reading/writing :book:
 *  :white_flower: Running :running:and Music/Movie:movie_camera:
 *  :triangular_flag_on_post:To be a better self:facepunch:~ 
