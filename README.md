@@ -8,7 +8,7 @@
 *  :two_hearts: Love photography:camera: and reading/writing :book:
 *  :white_flower: Running :running:and Music/Movie:movie_camera:
 *  :triangular_flag_on_post:To be a better self:facepunch:~
-*  
+*  If it weren't for bold adventure， life is nothing.
 
 **My Blog currently updating:** [Persional Blog](https://github.com/AUDI-RAN)
 
