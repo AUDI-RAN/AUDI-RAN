@@ -21,7 +21,7 @@ JJ
 
 
 
-**My Blog currently updating:** [MY GITHUB](https://github.com/AUDI-RAN)
+**My Github currently updating:** [MY Github](https://github.com/AUDI-RAN)
 
 * :speech_balloon: Questions are welcomed by commenting under articles.
 
