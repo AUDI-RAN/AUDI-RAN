@@ -1,6 +1,6 @@
 ### Hi there，你好 ! 👋
 
-> I'm [QiaoSong](https://blog.csdn.net/weixin_43825727?spm=1000.2115.3001.5343), an undergraduate major in CS from China.
+> I'm [冉子傲RZA](https://blog.csdn.net/weixin_43825727?spm=1000.2115.3001.5343), an undergraduate major in CS from China.
 >
 > :email: jungleemail@163.com
 
