@@ -18,7 +18,6 @@
 
 **My Technology Stack**
 
-<code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFNAs.png"></code>
 <code><img height="20" src="https://z3.ax1x.com/2021/04/19/cTkUat.jpg"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwF3jS.png"></code>
 <code><img height="20" src="https://z3.ax1x.com/2021/04/19/cTk5zF.png"></code>
