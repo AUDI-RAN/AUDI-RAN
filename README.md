@@ -10,6 +10,8 @@
 *  :rocket:To be a better version of myself:facepunch:~ 
 *  If it weren't for bold adventure， life is nothing.
 
+**MUSIC** :listen:
+
 **My Blog currently updating:** [MY GITHUB](https://github.com/AUDI-RAN)
 
 * :speech_balloon: Questions are welcomed by commenting under articles.
