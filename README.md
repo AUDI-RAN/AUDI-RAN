@@ -4,13 +4,15 @@
 >
 > :email: 1303388394@qq.com
 
-*  :badminton: Enjoy playing badminton and playing the piano !!
+*  :badminton: Enjoy playing badminton and playing the piano :musical_keyboard:!!
 *  :two_hearts: Love photography:camera: and record beatiful scenery :book:
 *  :white_flower: Running :running:and Music/Movie:movie_camera:
 *  :rocket:To be a better version of myself:facepunch:~ 
 *  If it weren't for bold adventure， life is nothing.
 
-**MUSIC** :listen:
+**MUSIC** :ear:
+JAY-CHOU 
+<code><img height="45" src="https://img2.baidu.com/it/u=4152155542,4262376676&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"></code>
 
 **My Blog currently updating:** [MY GITHUB](https://github.com/AUDI-RAN)
 
