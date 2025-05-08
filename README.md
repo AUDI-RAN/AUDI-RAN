@@ -58,14 +58,4 @@ JJ
 
 `※ FOR REFERENCE ONLY`
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qsbit&show_icons=true" />
-</a>
-
-<!--
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qsbit&layout=compact" />
-</a>
--->
-
 <img align="center" src="http://github-stats.ubrong.com/api?username=AUDI-RAN&show_icons=true&theme=tokyonnight" />
