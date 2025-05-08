@@ -8,7 +8,7 @@
 *  :two_hearts: Love photography:camera: and record beatiful scenery :book:
 *  :white_flower: Running :running:and Music/Movie:movie_camera:
 *  :rocket:To be a better version of myself:facepunch:~ 
-*  If it weren't for bold adventure， life is nothing.
+*  If it weren't for bold adventure , life is nothing.
 
 
 **MUSIC** :ear:
