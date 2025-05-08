@@ -13,7 +13,11 @@
 **MUSIC** :ear:
 
 JAY-CHOU 
-<code><img height="45" src="https://img2.baidu.com/it/u=4152155542,4262376676&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"></code>
+<code><img height="47" src="https://img2.baidu.com/it/u=4152155542,4262376676&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"></code>
+
+JJ
+<code><img height="47" src="https://img1.baidu.com/it/u=3396597194,2866220222&fm=253&fmt=auto&app=120&f=PNG?w=800&h=800"></code>
+
 
 **My Blog currently updating:** [MY GITHUB](https://github.com/AUDI-RAN)
 
