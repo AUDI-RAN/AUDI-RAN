@@ -1,6 +1,6 @@
 ### Hello Everyone ，你好呀 ! 👋
 
-> I'm [冉子傲 RZA](https://blog.csdn.net/weixin_43825727?spm=1000.2115.3001.5343), an undergraduate major in DUFE from China.
+> I'm [冉子傲 RZA], an undergraduate major in DUFE from China.
 >
 > :email: 1303388394@qq.com
 
