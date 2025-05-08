@@ -18,7 +18,7 @@
 
 **My Favourite** 
 
-<code><img height="28" src="https://img1.baidu.com/it/u=1359801534,1549102712&fm=253&fmt=auto&app=138&f=JPEG?w=600&h=395"></code>
+<code><img height="32" src="https://img1.baidu.com/it/u=1359801534,1549102712&fm=253&fmt=auto&app=138&f=JPEG?w=600&h=395"></code>
 
 **My Technology Stack**
 
