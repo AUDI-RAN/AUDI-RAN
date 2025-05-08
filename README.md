@@ -59,3 +59,4 @@ JJ
 `※ FOR REFERENCE ONLY`
 
 <img align="center" src="http://github-stats.ubrong.com/api?username=AUDI-RAN&show_icons=true&theme=tokyonnight" />
+<img align="center" src="http://profile-counter.glitch.me/AUDI-RAN/count.svg" />
