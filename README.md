@@ -67,3 +67,5 @@ JJ
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qsbit&layout=compact" />
 </a>
 -->
+
+http://github-AUDI-RAN.com/api?username=AUDI-RAN&show_icons=true&theme=tokyonnight
