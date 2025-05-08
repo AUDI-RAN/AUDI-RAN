@@ -64,3 +64,5 @@ JJ
 <img align="center" src="http://profile-counter.glitch.me/AUDI-RAN/count.svg" />
 
 <img align="center" src="http://github-stats.ubrong.com/api/top-langs/?username=AUDI-RAN&layout=compact" />
+
+<img align="center" src="http://stats.justsong.cn/api/bilibili/?id=3546583639525957&lang=zh-CN" />
