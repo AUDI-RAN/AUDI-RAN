@@ -10,6 +10,7 @@
 *  :rocket:To be a better version of myself:facepunch:~ 
 *  If it weren't for bold adventure， life is nothing.
 
+
 **MUSIC** :ear:
 
 JAY-CHOU 
@@ -19,17 +20,20 @@ JJ
 <code><img height="47" src="https://img1.baidu.com/it/u=3396597194,2866220222&fm=253&fmt=auto&app=120&f=PNG?w=800&h=800"></code>
 
 
+
 **My Blog currently updating:** [MY GITHUB](https://github.com/AUDI-RAN)
 
 * :speech_balloon: Questions are welcomed by commenting under articles.
 
 * :thought_balloon: If you have some great ideas, I'll look forward to your contributions.
 
+
 **My Favourite** 
 
 <code><img height="35" src="https://img1.baidu.com/it/u=1359801534,1549102712&fm=253&fmt=auto&app=138&f=JPEG?w=600&h=395"></code>
 <code><img height="35" src="https://img0.baidu.com/it/u=76143725,2540449494&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=562"></code>
 <code><img height="35" src="https://img0.baidu.com/it/u=3169533231,4219603311&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"></code>
+
 
 **My Technology Stack**
 
