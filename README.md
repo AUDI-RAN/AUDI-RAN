@@ -7,7 +7,7 @@
 *  :badminton: Enjoy playing badminton and playing the piano !!
 *  :two_hearts: Love photography:camera: and reading/writing :book:
 *  :white_flower: Running :running:and Music/Movie:movie_camera:
-*  :triangular_flag_on_post:To be a better version of myself:facepunch:~
+*  :triangular_flag_on_post:To be a better version of myself:facepunch:~ &#x1F680
 *  If it weren't for bold adventure， life is nothing.
 
 **My Blog currently updating:** [MY GITHUB](https://github.com/AUDI-RAN)
