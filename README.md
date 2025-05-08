@@ -7,9 +7,10 @@
 *  :badminton: Enjoy playing badminton and playing the piano !!
 *  :two_hearts: Love photography:camera: and reading/writing :book:
 *  :white_flower: Running :running:and Music/Movie:movie_camera:
-*  :triangular_flag_on_post:To be a better self:facepunch:~ 
+*  :triangular_flag_on_post:To be a better self:facepunch:~
+*  
 
-**My Blog currently updating:** [Persional Blog](https://qsbit.gitee.io/)
+**My Blog currently updating:** [Persional Blog](https://github.com/AUDI-RAN)
 
 * :speech_balloon: Questions are welcomed by commenting under articles.
 
