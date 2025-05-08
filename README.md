@@ -16,6 +16,10 @@
 
 * :thought_balloon: If you have some great ideas, I'll look forward to your contributions.
 
+**My Favourite** 
+
+<code><img height="28" src="https://img1.baidu.com/it/u=1359801534,1549102712&fm=253&fmt=auto&app=138&f=JPEG?w=600&h=395"></code>
+
 **My Technology Stack**
 
 <code><img height="24" src="https://img1.baidu.com/it/u=1359801534,1549102712&fm=253&fmt=auto&app=138&f=JPEG?w=600&h=395"></code>
