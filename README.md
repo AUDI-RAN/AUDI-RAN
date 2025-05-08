@@ -63,4 +63,4 @@ JJ
 
 <img align="center" src="http://profile-counter.glitch.me/AUDI-RAN/count.svg" />
 
-<img align="center" src="http://github-stats.ubrong.com/api/top-langs/?username=AUDI-RAN&layout=compact&theme=tokyonight" />
+<img align="center" src="http://github-stats.ubrong.com/api/top-langs/?username=AUDI-RAN&layout=compact" />
