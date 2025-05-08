@@ -20,6 +20,7 @@
 
 <code><img height="35" src="https://img1.baidu.com/it/u=1359801534,1549102712&fm=253&fmt=auto&app=138&f=JPEG?w=600&h=395"></code>
 <code><img height="35" src="https://img0.baidu.com/it/u=76143725,2540449494&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=562"></code>
+<code><img height="35" src="https://img0.baidu.com/it/u=3169533231,4219603311&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"></code>
 
 **My Technology Stack**
 
@@ -31,8 +32,8 @@
 <code><img height="24" src="https://img0.baidu.com/it/u=665211038,1634818861&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"></code>
 <code><img height="24" src="https://img0.baidu.com/it/u=199154205,1606130087&fm=253&fmt=auto&app=138&f=JPEG?w=279&h=237"></code>
 <code><img height="24" src="https://img1.baidu.com/it/u=4158793675,4230769811&fm=253&fmt=auto&app=138&f=PNG?w=500&h=500"></code>
-<code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFUNn.png"></code>
-<code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFGng.png"></code>
+<code><img height="24" src="https://s1.ax1x.com/2020/07/15/UwFUNn.png"></code>
+<code><img height="24" src="https://s1.ax1x.com/2020/07/15/UwFGng.png"></code>
 ...
 
 `※ FOR REFERENCE ONLY`
