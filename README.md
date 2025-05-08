@@ -59,4 +59,3 @@ JJ
 `※ FOR REFERENCE ONLY`
 
 <img align="center" src="http://github-stats.ubrong.com/api?username=AUDI-RAN&show_icons=true&theme=tokyonnight" />
-- [x] [一言](https://hitokoto.cn/)
