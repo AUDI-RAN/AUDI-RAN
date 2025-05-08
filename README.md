@@ -68,4 +68,4 @@ JJ
 </a>
 -->
 
-http://github-AUDI-RAN.com/api?username=AUDI-RAN&show_icons=true&theme=tokyonnight
+http://github-stats.ubrong.com/api?username=AUDI-RAN&show_icons=true&theme=tokyonnight
