@@ -1,8 +1,8 @@
 ### Hi there，你好 ! 👋
 
-> I'm [RZA](https://blog.csdn.net/weixin_43825727?spm=1000.2115.3001.5343), an undergraduate major in CS from China.
+> I'm [RZA](https://blog.csdn.net/weixin_43825727?spm=1000.2115.3001.5343), an undergraduate major in DUFE from China.
 >
-> :email: jungleemail@163.com
+> :email: 1303388394@qq.com
 
 *  :computer: Enjoy learning and Coding!!
 *  :two_hearts: Love photography:camera: and reading/writing :book:
