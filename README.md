@@ -33,7 +33,6 @@
 <code><img height="24" src="https://img1.baidu.com/it/u=4158793675,4230769811&fm=253&fmt=auto&app=138&f=PNG?w=500&h=500"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFUNn.png"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFGng.png"></code>
-<code><img height="20" src="https://bkimg.cdn.bcebos.com/pic/7acb0a46f21fbe096b63d27c633a1b338744ebf8071b?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,w_465"></code>
 ...
 
 `※ FOR REFERENCE ONLY`
