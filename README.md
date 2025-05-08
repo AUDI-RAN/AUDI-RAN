@@ -56,10 +56,11 @@ JJ
 <code><img height="26" src="https://s1.ax1x.com/2020/07/15/UwFGng.png"></code>
 ...
 
-`※ FOR REFERENCE ONLY`
 
 <img align="center" src="http://github-stats.ubrong.com/api?username=AUDI-RAN&show_icons=true&theme=tokyonnight" />
 
 **主页访问记录**
 
 <img align="center" src="http://profile-counter.glitch.me/AUDI-RAN/count.svg" />
+
+<img align="center" src="http://github-stats.ubrong.com/api/top-langs/?username=AUDI-RAN&layout=compact&theme=tokyonight" />
